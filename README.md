@@ -1,2 +1,2 @@
-# Card-styling--with-CSS
+# Product-card-with-CSS
 Responsive Product Card UI Design | Html CSS Responsive Design
